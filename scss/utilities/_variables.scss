@@ -1,0 +1,50 @@
+/* ============================================= */
+/*            Font Variables                     */
+/* ============================================= */
+
+$font-stack-primary: 'Lato', sans-serif;
+
+/* ============================================= */
+/*            Color Variables                     */
+/* ============================================= */
+
+$color-primary: #58e1c1;
+$color-secondary: #51ddfc;
+$link-color: #ec9fa3;
+$nav-color-hover: #58e1c1;
+$font-body-color: #777;
+$color-col1: #927bc1;
+$color-col2: #fd7856;
+$color-col3: #deb2ee;
+$color-col4: #7ee6fd;
+$color-col5: #88d9a0;
+$color-col6: #4da2bb;
+$color-col7: #ec9fa3;
+$color-col8: #fd9f85;
+$color-col9: #e4757a;
+$color-col10: #63cc82;  /* $color-col11 is the same as color secondary that is why is not in the list. */
+$color-col12: #80e8d1;
+$color-button-font: #fff;
+$imageframe: #ccc;
+
+/* ============================================= */
+/*           Buttons Variables                   */
+/* ============================================= */
+
+$default: #51ddfc;
+$error: #e4757a;
+$info: #927bc1;
+$success: #63cc82;
+$warning: #fd7856;
+
+/* ============================================= */
+/*            Grid System Variables              */
+/* ============================================= */
+
+$radius: 5px;
+
+/* ============================================= */
+/*            Media Queries Variables            */
+/* ============================================= */
+
+$breakpoint: '(min-width:768px)';
